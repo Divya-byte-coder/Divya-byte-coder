@@ -62,4 +62,8 @@ I enjoy writing clean, maintainable code and continuously learning new technolog
 
 ## 🤝 Let's Connect
 
-- 💼 Open to opportunities and collaborations 
+- 💼 Open to opportunities and collaborations
+  
+## 🔗 Connect with me
+- LinkedIn: https://www.linkedin.com/in/divya-parthiban-434090301/
+- LeetCode: https://leetcode.com/u/Divyaparthiban/
