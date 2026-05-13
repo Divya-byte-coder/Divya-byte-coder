@@ -45,7 +45,7 @@ I enjoy writing clean, maintainable code and continuously learning new technolog
 
 ## 🛠️ Tech Stack
 
-- 💻 Languages: JavaScript, Java  
+- 💻 Languages: JavaScript, Java  ,Python ,Golang
 - 🌐 Frontend: React, HTML, CSS  
 - ⚙️ Backend: Node.js  
 - 🗄️ Database: MongoDB, MySQL  
